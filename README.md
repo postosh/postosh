@@ -1,5 +1,4 @@
 <h3 align="center">Hi there 👋</h3>
-<h1 align="center">SeongHyeon's Github</h1>
 
 <p align="center">
   <br />
